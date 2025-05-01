@@ -6,5 +6,5 @@ Done in preparation for upcoming work on the Kintandu dialect.
 
 Methods created:
 
-Initial kituba stopword list
+Initial kituba stopword list & 
 Character patterns within words
